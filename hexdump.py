@@ -7,6 +7,6 @@ print(conclude)
 sparkly = open("/home/saleemuddin1/CorPy/result4.hex","w")
 sparkly.write(conclude)
 sparkly.close()
-print("The hex contents are also in file: result4.hex")
+print("The hex contents are also in file: result4.txt")
 
 
